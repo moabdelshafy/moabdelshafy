@@ -20,7 +20,9 @@
 
 - 📄 <a href="https://drive.google.com/file/d/1i8PP2GrDZHRFf6RZSiuyZtjDpS_ysJDD/view" rel="nofollow">MY RESUME</a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moabdelshafy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabdelshafy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="moabdelshafy" /></p>
+</div>
 
 
 
