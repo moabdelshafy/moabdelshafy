@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning : **Docker, Microservices**
 
-- 👨‍💻 My Portfolio : [https://moabdelshafy.github.io/](https://moabdelshafy.github.io)
-
 - 💬 Ask me about : **Java, Spring Boot**
+
+- 👨‍💻 <a href="https://moabdelshafy.github.io" rel="nofollow">MY PORTFOLIO</a>
 
 - 📄 <a href="https://drive.google.com/file/d/1i8PP2GrDZHRFf6RZSiuyZtjDpS_ysJDD/view" rel="nofollow">MY RESUME</a>
 
