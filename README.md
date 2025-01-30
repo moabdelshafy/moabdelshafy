@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm MoHamed AbdelShafy </h1> 
-<h3 align="center">I am a Java developer with 4++ years of experience. I am very passionate about improving my coding skills & developing applications . I build WebApps using Java & Spring Boot. Working for myself to improve my skills. Love to explore different tech stacks. Learning never stops</h3>
+<h3 align="center">I am a Java developer with more than 4 years of experience. I am very passionate about improving my coding skills & developing applications . I build WebApps using Java & Spring Boot. Working for myself to improve my skills. Love to explore different tech stacks. Learning never stops</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moabdelshafy&label=Profile%20views&color=0e75b6&style=flat" alt="moabdelshafy" /> </p>
 <p align="center"> <a href="https://twitter.com/3abshafyy" target="blank"><img src="https://img.shields.io/twitter/follow/3abshafyy?logo=twitter&style=for-the-badge" alt="3abshafyy" /></a> </p>
